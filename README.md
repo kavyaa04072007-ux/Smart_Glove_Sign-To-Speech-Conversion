@@ -1,7 +1,3 @@
-Yep — you mean **just the actual content**, without the explanations about what each section is.
-
-Here’s the clean copy-paste content:
-
 # Smart Glove for Sign-to-Speech Conversion
 
 A wearable assistive communication prototype that detects predefined hand gestures using flex sensors and an Arduino Uno, then converts the recognized gestures into spoken words using Python.
